@@ -1,0 +1,17 @@
+# Ignore kube configs
+.kube/
+*.kubeconfig
+
+# Ignore environment variables
+.env
+
+# Ignore IDE/editor files
+*.log
+.vscode/
+.idea/
+*.swp
+
+# Ignore Docker-related
+*.pid
+*.sock
+
